@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.enigmes",
+  "repo": "NDesumeur/neodex-plugin-enigmes-phone",
+  "version": "1.0.0",
+  "sha256": "057cc595f2578c2a8042707fcbeb6a947fad7cd1db62e33f57606f6017c1dd11",
+  "approvedAt": "2026-11-17T18:40:03.003Z",
+  "neobase": ">=4.0.0",
+  "signature": "HASbxWF/tvXhUM0sjNvX3Fwj5rScb35oaYUBOoMkBDp0uDob3QJNqqr1/I0NjwtPcaWTYm/a1VUWw0vhnF9XCg=="
+}
